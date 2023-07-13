@@ -1,3 +1,5 @@
+[Get Projectile Module](https://github.com/amandania/Projectile/blob/main/src/ReplicatedStorage/Shared/Projectile.lua)
+
 Projectile module is used to simulate a projectile motion in various ways.
  - Curved Motion
  - Linear Motion
